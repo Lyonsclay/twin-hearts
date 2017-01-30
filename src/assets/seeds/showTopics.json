@@ -1,0 +1,27 @@
+[
+  {
+    "id": "0",
+    "title": "DISCUSSIONS",
+    "color": "yellow"
+  },
+  {
+    "id": "1",
+    "title": "HITS",
+    "color": "orange"
+  },
+  {
+    "id": "2",
+    "title": "SHOWS",
+    "color": "red"
+  },
+  {
+    "id": "3",
+    "title": "BLOGS",
+    "color": "green"
+   },
+  {
+    "id": "4",
+    "title": "ALBUMS",
+    "color": "blue"
+   }
+]

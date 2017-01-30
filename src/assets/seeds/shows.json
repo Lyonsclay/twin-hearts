@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "image": "http://cdn2.pitchfork.com/albums/18568/a1880c84.jpeg",
+    "title": "Smashing Pumpkins",
+    "description": "The Smashing Pumpkins[1] are an American alternative rock band from Chicago, Illinois, formed in 1988. Formed by frontman Billy Corgan (lead vocals, guitar) and James Iha (guitar), the band included D'arcy Wretzky (bass guitar) and Jimmy Chamberlin (drums) in its original incarnation. It has undergone many line-up changes over the course of its existence, with the current lineup being Corgan and rhythm guitarist Jeff Schroeder.",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/SP2012STLChaifetz.jpg/300px-SP2012STLChaifetz.jpg",
+      "http://kilscene.com/wp-content/uploads/2014/02/Smashing_Group.jpg",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLfvKx35d-NlmggjCWds-U7Py4DU-oNDnjWnMnUNKTLEwa_rrG",
+      "https://upload.wikimedia.org/wikipedia/en/f/fb/Zeitgeist_cover.png"
+    ]
+  },
+  {
+    "id": "2",
+    "image": "https://i.ytimg.com/vi/heotcTKCCtk/maxresdefault.jpg",
+    "title": "Pink Floyd",
+    "description": "Pink Floyd were an English rock band formed in London. They achieved international acclaim with their progressive and psychedelic music. Distinguished by their use of philosophical lyrics, sonic experimentation, extended compositions and elaborate live shows, they are one of the most commercially successful and influential groups in the history of popular music.",
+    "screenshots": [
+      "http://www.projectrevolver.org/wp-content/uploads/2014/12/pink-floyd.jpg",
+      "http://images.indianexpress.com/2014/07/pink-floyd-main.jpg?w=450",
+      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-Zgdj165CXfIHIR3vQ_IFiSHeL-INqkR1GX62B6gabgl1xlfS3A",
+      "https://i.ytimg.com/vi/TFjmvfRvjTc/hqdefault.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "image": "https://i.ytimg.com/vi/7jg8WdFgOzU/maxresdefault.jpg",
+    "title": "Michael Jackson",
+    "description": "The eighth child of the Jackson family, Michael made his professional debut in 1964 with his elder brothers Jackie, Tito, Jermaine, and Marlon as a member of the Jackson 5. He began his solo career in 1971. In the early 1980s, Jackson became a dominant figure in popular music. ",
+    "screenshots": [
+      "http://www.urbansplatter.com/wp-content/uploads/2014/05/michael-jackson-1.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-18hai-GCiv9mh_0eT4wBkrIu87OF6bPYU-jW0SAjDZrwJfJoXQ",
+      "http://esq.h-cdn.co/assets/cm/15/07/54da544b7e34d_-_25-michael-jackson-1970-lg.jpg",
+      "http://www.fuse.tv/image/53a0b3d69d420f2152000008/816/545/michael-jackson-performs-on-stage-during-his-bad-concert-tour.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "image": "https://s-media-cache-ak0.pinimg.com/originals/80/51/63/805163255a41a51d288e51c0935f20c2.jpg",
+    "title": "Lady Gaga",
+    "description": "Lady Gaga, is an American singer, songwriter and actress. She performed initially in theater, appearing in high school plays, and studied at CAP21 through NYU's Tisch School of the Arts before dropping out to pursue a musical career. After leaving a rock band, participating in the Lower East Side's avant garde performance art circuit, and being dropped from a contract with Def Jam Recordings, Gaga worked as a songwriter for Sony/ATV Music Publishing.",
+    "screenshots": [
+      "http://thetvdb.com/banners/fanart/original/84912-22.jpg",
+      "http://www.billboard.com/files/styles/article_main_image/public/media/lady-gaga-poker-face-video-billboard-650.jpg",
+      "http://www.billboard.com/files/styles/article_main_image/public/media/lady-gaga-golden-globes-bw-2016-billboard-650.jpg",
+      "https://cdn.thinglink.me/api/image/444115165110075394/1024/10/scaletowidth"
+    ]
+  },
+  {
+    "id": "5",
+    "image": "http://img.wennermedia.com/social/george-95a2eecf-f9d8-4619-a543-6dd62bb9b226.jpg",
+    "title": "George Michael",
+    "description": "George Michael, was an English singer, songwriter, record producer, and philanthropist who rose to fame as a member of the music duo Wham! He was best known for his work in the 1980s and 1990s, including hit singles such as \"Wake Me Up Before You Go-Go\" and \"Last Christmas\", and albums such as Faith (1987) and Listen Without Prejudice Vol. 1 (1990).",
+    "screenshots": [
+      "http://2r62j11x4zsy3ytak02nzvbk24y-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/NEWGeorge-Michael-Faith-COLOR1.jpg",
+      "http://cdn.newsapi.com.au/image/v1/b370208da5357c35c8ee34afeb948044",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/George_Michael.jpeg/800px-George_Michael.jpeg",
+      "https://s1.thcdn.com/productimg/0/600/600/45/5068445-1302280089-107435.jpg"
+    ]
+  },
+  {
+    "id": "6",
+    "image": "http://media.nbcsandiego.com/images/1200*675/devo1+722.jpg?ak=bc",
+    "title": "Devo",
+    "description": "Devo (/ˈdiːvoʊ/, originally /diːˈvoʊ/)[8] is an American rock band that formed in 1973, consisting of members from Kent and Akron, Ohio. Their classic line-up consisted of two sets of brothers, the Mothersbaughs (Mark and Bob) and the Casales (Gerald and Bob), along with Alan Myers. The band had a No. 14 Billboard chart hit in 1980 with the single \"Whip It\" and has maintained a cult following throughout its existence.",
+    "screenshots": [
+      "https://s-media-cache-ak0.pinimg.com/originals/18/11/d9/1811d993e6214d0e2dab71e6f44e9b2f.jpg",
+      "http://images2.mtv.com/uri/mgid:file:docroot:vh1.com:/sitewide/flipbooks/img/shows/one_hit_wonders/2098.jpg?enlarge=false&matte=true&matteColor=black&quality=0.85",
+      "http://www.slate.com/content/dam/slate/blogs/browbeat/2012/07/20/devo_s_best_songs_on_a_spotify_playlist_listen_on_slate/1342727165840.jpg.CROP.rectangle3-large.jpg",
+      "http://www.thevinylfactory.com/wp-content/uploads/2015/04/Devo-Shout_1984-Frontal.jpg"
+    ]
+  },
+  {
+    "id": "7",
+    "image": "http://www.showbiz411.com/wp-content/uploads/2015/06/amy-winehouse.jpg",
+    "title": "Amy Winehouse",
+    "description": "Amy Winehouse won three Ivor Novello Awards: in 2004, Best Contemporary Song for \"Stronger Than Me\"; in 2007, Best Contemporary Song again, this time for \"Rehab\"; and in 2008, Best Song Musically and Lyrically for \"Love Is a Losing Game.\" She also won the 2007 Brit Award for Best British Female Artist, having been nominated for Best British Album, with Back to Black.",
+    "screenshots": [
+      "http://cdn.shopify.com/s/files/1/0132/4702/files/AmyWinehouse.jpeg?13320286525905141677",
+      "https://upload.wikimedia.org/wikipedia/en/a/a1/Amy_Winehouse_-_Lioness_Hidden_Treasures.png",
+      "http://vigilantcitizen.com/wp-content/uploads/2011/08/Amy-as-a-kid-01-Amy-Winehouse.jpg",
+      "http://9bytz.com/wp-content/uploads/2012/01/Amy-Winehouse.jpg"
+    ]
+  },
+  {
+    "id": "8",
+    "image": "http://citispotter.com/wp-content/uploads/2016/11/fthr.jpeg",
+    "title": "Elvis Presley",
+    "description": "Elvis Aaron Presley[a] (January 8, 1935 – August 16, 1977) was an American singer and actor. Regarded as one of the most significant cultural icons of the 20th century, he is often referred to as the \"King of Rock and Roll\", or simply \"the King\".",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/220px-Elvis_Presley_promoting_Jailhouse_Rock.jpg",
+      "http://freeclassicimages.com/images/elvis-presley-0028.jpg",
+      "http://www.jewwatch.com/gif-presley-elvis.jpg",
+      "https://cdn.mensagenscomamor.com/content/images/img/e/elvis_presley.jpg"
+    ]
+  },
+  {
+    "id": "9",
+    "image": "http://static.wixstatic.com/media/09cdc2_c93cecf081524cfabaec04b3635e791c.jpg",
+    "title": "Run DMC",
+    "description": "Run–D.M.C. was an American hip hop group from Hollis, Queens, New York, founded in 1981 by Joseph Simmons, Darryl McDaniels, and Jason Mizell. The group is widely acknowledged as one of the most influential acts in the history of hip hop culture. ",
+    "screenshots": [
+      "http://www.rundmc.com/wp-content/uploads/2013/12/rundmc-glasswall-570x330.jpg",
+      "https://paxholley.files.wordpress.com/2013/04/rundmc_2.jpg",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8UU4v0oszMaUc17xF2qrNjs5b4Hmx5FKWncvwztMRqgIyypMwVA",
+      "http://orig05.deviantart.net/ad7f/f/2009/107/6/1/run_dmc_by_42nd.jpg"
+    ]
+  },
+  {
+    "id": "10",
+    "image": "https://media.npr.org/assets/img/2016/06/03/kronos-quartet-2016---photo-by-jay-blakesberg-2_wide-cbb0efd92a2c9c750392c9d9dd69fd0c2606d104.jpg?s=1400",
+    "title": "Kronos Quartet",
+    "description": "The Kronos Quartet is an American string quartet based in San Francisco. They have been in existence with a rotating membership of musicians for over forty years. The quartet specializes in contemporary classical music, with more than 750 works having been written for them.",
+    "screenshots": [
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmF8vxUxrSSYX0zCdHbFc6bmvAb387t4UOPKJZGHe83MwDKPTo",
+      "http://www.brooklynvegan.com/files/img/tg/bv/music/kronos-quartet-lincoln-centerout-of-doors-july28/3-kronos-quartet/kronos-quartet-1.jpg",
+      "http://media.npr.org/assets/img/2015/06/19/03_kq-w-terry-riley-and-50th-birthday-cake-1985.richardmccaffrey-fda8d104d975e44b6cdf7b6407dd534a27a856bd-s900-c85.jpeg",
+      "https://images-na.ssl-images-amazon.com/images/I/51gJsqPP0DL.jpg"
+    ]
+  },
+  {
+    "id": "11",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvmOXSFeBZYXuxFCMFPJVk3a1xRgI_4C33J3FSiDP1iuOP1p74Eg",
+    "title": "Billie Holiday",
+    "description": "Billie Holiday, was an American jazz musician and singer-songwriter with a career spanning nearly thirty years. Nicknamed \"Lady Day\" by her friend and music partner Lester Young, Holiday had a seminal influence on jazz music and pop singing. Her vocal style, strongly inspired by jazz instrumentalists, pioneered a new way of manipulating phrasing and tempo.",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Billie_Holiday_0001_original.jpg/800px-Billie_Holiday_0001_original.jpg",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTdiam5Riy3N8AvhE02aAOaKS5rh3BhJvBriwoy1CkSv9ShjQ3HA",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkBi6tZtdi50NK55rN64RzD6uvUAGUU8ViAQ8C4Vn3qN_ik8sO",
+      "http://st.jetsetrecords.net/product/thumbnail/d/f/7/df7ad7222e408141c0270d652289abe6/raw.jpg"
+    ]
+  }
+]

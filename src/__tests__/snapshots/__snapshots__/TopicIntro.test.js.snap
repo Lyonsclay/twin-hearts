@@ -1,0 +1,101 @@
+exports[`TopicIntro renders 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "space-around"
+    }
+  }>
+  <div
+    style={
+      Object {
+        "contentJustify": "space-around",
+        "flex": "0 0 auto",
+        "flexBasis": "30%",
+        "minWidth": 240,
+        "overflow": "hidden",
+        "textAlign": "center"
+      }
+    }>
+    <div
+      style={
+        Object {
+          "marginTop": 15
+        }
+      }>
+      <h1>
+        Great Show
+      </h1>
+    </div>
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "margin": 40,
+          "textAlign": "center"
+        }
+      }>
+      <p>
+        It rips the curtain off the American dream!
+      </p>
+    </div>
+    <div
+      style={
+        Object {
+          "height": 90
+        }
+      }>
+      <img
+        src="http://thetvdb.com/banners/fanart/original/289590-25.jpg"
+        style={
+          Object {
+            "margin": 15,
+            "maxHeight": "100%",
+            "maxWidth": "100%"
+          }
+        } />
+      <img
+        src="http://thetvdb.com/banners/fanart/original/289590-6.jpg"
+        style={
+          Object {
+            "margin": 15,
+            "maxHeight": "100%",
+            "maxWidth": "100%"
+          }
+        } />
+      <img
+        src="http://thetvdb.com/banners/fanart/original/289590-8.jpg"
+        style={
+          Object {
+            "margin": 15,
+            "maxHeight": "100%",
+            "maxWidth": "100%"
+          }
+        } />
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "height": 500,
+        "marginLeft": 20,
+        "marginRight": 20,
+        "minWidth": 480,
+        "textAlign": "center"
+      }
+    }>
+    <img
+      src={undefined}
+      style={
+        Object {
+          "margin": 15,
+          "maxHeight": "100%",
+          "maxWidth": "100%"
+        }
+      } />
+  </div>
+</div>
+`;

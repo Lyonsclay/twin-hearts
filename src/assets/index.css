@@ -1,0 +1,72 @@
+body,
+html {
+  background-color: #333;
+  color: white;
+  
+  padding: 0;
+
+}
+
+.header-container {
+  height: 7em;
+  background-color: #1B1C1D;
+}
+
+/* push search results list away from edge*/
+.results {
+  margin-left: -1em;
+}
+
+.sidebar-menu {
+  margin-top: 0;
+  margin-right: 1em;
+  margin-left: 1em;
+  padding-right: 1em;
+}
+
+/* Position and sizing of burger button */
+.bm-burger-button {
+  position: fixed;
+  width: 36px;
+  height: 30px;
+  left: 36px;
+  top: 36px;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+  background: #999;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: #bdc3c7;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background: #333;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.25em;
+}
+
+.sidebar-item {
+  color: white;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: #b8b7ad;
+  padding: 0.8em;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
