@@ -5,9 +5,9 @@ import NewDiscussionInput from './_NewDiscussionInput'
 
 const base = Rebase.createClass({
   apiKey: "AIzaSyBNWUr-vspSKICVT1842U2xge8-UdIyvOs",
-  authDomain: "twin-hearts.firebaseapp.com",
-  databaseURL: "https://twin-hearts.firebaseio.com",
-  storageBucket: "twin-hearts.appspot.com",
+  authDomain: "twin-hearts-f69c6.firebaseapp.com",
+  databaseURL: "https://twin-hearts-f69c6.firebaseio.com",
+  storageBucket: "twin-hearts-f69c6.appspot.com",
 })
 var authHandler = function(error) {
   if(error) console.log(error);
